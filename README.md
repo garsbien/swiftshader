@@ -1,2 +1,2 @@
 # swiftshader
-Pour des graphiques ahurrissants
+Pour des graphismes ahurrissants sur amd
